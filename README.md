@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atmaj Koppikar</h1>
-<h3 align="center">An MS CS graduate student at NYU Courant</h3>
+<h3 align="center">An MS CS student at NYU Courant</h3>
 
 - 🔭 I’m currently working on **Etherficate: Secure E-certificates**
 
